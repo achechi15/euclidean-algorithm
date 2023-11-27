@@ -9,7 +9,7 @@ int euclidean(int a, int b)
 
 int main()
 {
-    int a, b;
+    int a, b;   
     cin >> a >> b;
     cout << euclidean(a, b) << endl;
 }
